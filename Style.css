@@ -219,15 +219,10 @@ body {
 }
 .titlee-2{
     position: absolute;
-    width: 258px;
-    height: 53px;
     left: 160px;
     top: 2800px;
-
-    font-style: normal;
     font-weight: 700;
     font-size: 45px;
-    line-height: 53px;
 }
 .pTag-2{
     position: absolute;
